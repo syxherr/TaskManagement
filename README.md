@@ -1,14 +1,13 @@
 # 🗂️ Kanban Board
 
-A sleek task management app built with React — drag your tasks, undo your mistakes, and star the ones that matter. No backend, no drama. 🎯
+Task management with drag or drop like Kanban board.
 
 ## ✨ Features
 
 - 📋 **Kanban Board** — organize tasks.
 - ⭐ **Starred Tasks** — pin your most important tasks to the peak.
-- ↩️ **Undo / Redo** — made a mistake? for real? no worries we got you
-- 👤 **Name-based Login** — no passwords, no sign-up, just your name
-- 💾 **Persistent State** — your tasks survive a page refresh
+- ↩️ **Undo / Redo** — made a mistake? for real? dont wotty we got you.
+- 👤 **Name-based Login** — no passwords, no sign-up, just your name.
 
 ## 🛠️ Tech Stack
 
